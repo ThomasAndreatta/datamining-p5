@@ -1,5 +1,5 @@
 programme,mlcourse,ircourse,statcourse,dbcourse,gender,chatGPT,birthday,studentestimate,stand,stress,sporthours,random,bedtime,goodday1,goodday2,byear,bmonth
-unknown,no,no,mu,nee,female,yes,3.25,300,no,42.24220338983051,10.0,360.0,01:00,TV shows,friends,1999,3
+critical language scholarship,no,no,mu,nee,female,yes,3.25,300,no,42.24220338983051,10.0,360.0,01:00,TV shows,friends,2000,3
 unknown,no,no,mu,nee,female,yes,06/10/1994,300,no,35.0,4.0,47.0,01:00,Sports,Friends,1994,10
 artificial intelligence,yes,yes,mu,ja,female,not willing to say,05.04.1996,200,no,76.0,0.0,35.0,00:00,If the to do list is empty ,If I have a new book,1996,4
 business analytics,yes,unknown,mu,nee,female,not willing to say,28/10/1997,140,no,30.0,3.0,5.0,02:00,Food,Shopping,1997,10
@@ -29,7 +29,7 @@ artificial intelligence,yes,yes,mu,ja,male,no,16/09/1998,200,no,25.0,8.0,69.0,24
 computer science,yes,no,mu,ja,female,yes,21-08,220,yes,60.0,6.0,21.0,00:00,Nice food ,Spending nice time with others ,2000,8
 artificial intelligence,yes,no,mu,ja,male,yes,18-12-1998,300,no,80.0,2.0,197307.0,02:00,coffee,Good sleep,1998,12
 business analytics,yes,no,mu,nee,female,yes,08-03-2002,300,no,10.0,5.0,3572589.0,23:00,Sunshine,Meeting friends,2002,3
-unknown,yes,no,sigma,ja,male,yes,04/02/1995,200,no,95.0,5.0,3.14,03:40,Coffee,More coffee,1995,2
+finiancial technology,yes,no,sigma,ja,male,yes,04/02/1995,200,no,95.0,5.0,3.14,03:40,Coffee,More coffee,1995,2
 artificial intelligence,yes,yes,mu,ja,female,yes,7 January ,200,no,35.0,4.0,36.0,22:30,Food,Food,1999,01
 artificial intelligence,yes,yes,mu,ja,female,yes,10 November 1998,200,no,24.0,4.0,67.0,01:00,Good food,Nice weather,1998,11
 computational science,yes,yes,sigma,ja,male,yes,16/09/1996,240,no,12.0,2.0,96.0,02:00,Low stress but productive,Not too many complications,1996,9
@@ -38,7 +38,7 @@ bioinformatics and systems biology,yes,no,unknown,nee,female,yes,7-03-2000,280,n
 computational science,yes,yes,mu,ja,male,no,24,240,no,5.0,2.0,88754.0,24:00,Tea,Lunch,2000,
 artificial intelligence,yes,yes,sigma,ja,male,yes,6/9/69,0,no,8.0,4.0,0.0,01:00,sun,good food,1999,9
 artificial intelligence,yes,no,mu,nee,not willing to answer,yes,1995,200,no,42.24220338983051,0.0,60.0,01:00,Tea,Loving ones,1995,
-unknown,no,no,mu,unknown,not willing to answer,no,Nov 28,300,no,20.0,0.0,19375931694.0,04:15,Guinea pigs,Baldur's gate 3,1999,11
+unknown,no,no,mu,unknown,not willing to answer,no,Nov 28,300,no,20.0,0.0,19375931694.0,04:15,Guinea pigs,Baldur's gate 3,1998,11
 artificial intelligence,yes,no,mu,ja,male,yes,17-10-2001,0,no,20.0,4.0,29.0,02:00,Eating good food,Spending time with good people,2001,10
 artificial intelligence,yes,yes,unknown,ja,male,yes,27-08-2002,240,no,15.0,14.0,8.0,22:00,No assignments due in the next 3 days ,Playing games with my friends ,2002,8
 bioinformatics and systems biology,yes,no,mu,unknown,female,no,17-03-2001,240,no,78.0,8.0,28.0,23:30,Doing something fun,Going outside,2001,3
@@ -64,7 +64,7 @@ computational science,no,no,mu,nee,male,no,25 May,220,no,40.0,0.0,7.0,24:30,A da
 bioinformatics and systems biology,yes,no,mu,ja,female,not willing to say,05-11-2002,300,unknown,60.0,0.0,1999.0,01:00,Me,You,2002,11
 big data,yes,yes,mu,ja,female,yes,15/09/2000,200,no,45.0,0.0,55.0,24:00,Sunshine ,Food ,2000,9
 artificial intelligence,yes,no,mu,ja,male,yes,"Oct 18, 1998",220,no,1.0,5.0,9.0,03:30,"Friends, Family",Food,1998,10
-unknown,yes,no,unknown,nee,female,yes,3-5-2000,360,no,90.0,4.0,31.0,02:45,Good company,Good food ,2000,5
+finiancial technology,yes,no,unknown,nee,female,yes,3-5-2000,360,no,90.0,4.0,31.0,02:45,Good company,Good food ,2000,5
 business analytics,yes,unknown,mu,nee,female,yes,04-06-1999,300,no,50.0,5.0,1.0,23:00,Sunshine ,Terrace ,1999,6
 artificial intelligence,no,no,mu,nee,female,yes,03/10/2001,100,no,70.0,5.0,8.0,23:00,sun ,dogs ,2001,10
 artificial intelligence,yes,yes,mu,ja,male,no,6/8/2002,320,no,80.0,0.0,9.0,23:30,Listening to music ,Sunny days ,2002,8
@@ -75,7 +75,7 @@ big data engineering,yes,unknown,mu,ja,male,not willing to say,"July 07th, 2001"
 bioinformatics and systems biology,yes,no,sigma,nee,male,yes,06/10/1998,240,no,42.0,8.0,3.0,01:00,Good food,Friends,1998,10
 business analytics,yes,no,mu,nee,male,yes,12/10/1997,240,no,80.0,6.0,7.0,03:00,Free day ,Good company ,1997,10
 artificial intelligence,no,no,mu,ja,non-binary,yes,2000-02-24,240,no,100.0,0.0,3.0,04:00,Sunshine,Reading a book,2000,2
-unknown,yes,no,mu,ja,female,yes,2/5,100,no,70.0,2.0,99.0,01:00,Sun,Text,1999,5
+unknown,yes,no,mu,ja,female,yes,2/5,100,no,70.0,2.0,99.0,01:00,Sun,Text,1998,5
 computer science,no,no,mu,ja,female,yes,11.05.2001,300,no,35.0,5.0,63.0,00:20,A nice-looking breakfast,Sunny weather,2001,5
 computer science,yes,yes,mu,ja,male,not willing to say,30/2/1999,380,no,100.0,0.0,69.0,22:00,Doing sport,Beer,1999,2
 business analytics,yes,yes,mu,nee,male,yes,24-03-97,300,no,25.0,5.0,4.0,02:00,Being productive,Spend time with loved ones and have good food,2000,3
@@ -118,14 +118,14 @@ computer science,no,no,unknown,nee,female,yes,11.06.1998,500,no,40.0,0.0,1636287
 artificial intelligence,yes,yes,mu,ja,male,not willing to say,14-03-1955,200,no,20.0,6.0,17389276163.0,00:22,Beers on the terrace ,The sun is shining,1999,3
 artificial intelligence,no,no,mu,nee,male,yes,23/12/1997,0,no,30.0,1.0,1234567890.0,02:00,Nice weather ,Relaxing with my friends ,1997,12
 artificial intelligence,yes,yes,mu,ja,female,yes,24-07-2000,140,yes,30.0,0.0,7.0,02:00,Nice weather,Good food,2000,7
-unknown,no,no,mu,nee,female,yes,08/09,180,yes,68.0,5.0,9.0,01:00,Eating a great meal ,Petting animals,1999,9
+critical language scholarship,no,no,mu,nee,female,yes,08/09,180,yes,68.0,5.0,9.0,01:00,Eating a great meal ,Petting animals,2000,9
 computational science,yes,yes,mu,ja,female,not willing to say,09052001,100,unknown,100.0,8.0,68.0,00:00,dessert,good weather,2001,5
 econometrics and data science,yes,yes,mu,ja,female,not willing to say,01-12-2000,300,no,5.0,10.0,6.0,00:00,Seeing friends/family,Football,2000,12
-unknown,yes,no,mu,nee,male,not willing to say,30.08,240,yes,60.0,3.0,97.0,01:00,great weather ,meet friends,1999,8
+unknown,yes,no,mu,nee,male,not willing to say,30.08,240,yes,60.0,3.0,97.0,01:00,great weather ,meet friends,1998,8
 econometrics and data science,yes,unknown,mu,nee,male,yes,27 October ,400,no,10.0,4.0,917382918.0,02:00,Being with friends,Being with girlfriend,2000,10
 artificial intelligence,yes,no,mu,ja,male,yes,31/07/2001,600,no,20.0,10.0,24.0,02:30,Sunny,Being together with crush,2001,7
 artificial intelligence,yes,no,unknown,ja,male,yes,17/04/2001,120,no,25.0,5.0,3.0,01:00,Sun,Being outside,2001,4
-artificial intelligence,yes,no,mu,ja,male,yes,06.11.1895,300,no,15.0,6.0,7.362826282728195e+22,23:45,Nice weather,No rain,1999,11
+artificial intelligence,yes,no,mu,ja,male,yes,06.11.1895,300,no,15.0,6.0,7.362826282728195e+22,23:45,Nice weather,No rain,1995,11
 artificial intelligence,yes,no,mu,ja,gender fluid,not willing to say,16.06.1998,120,yes,100.0,8.0,5.426710954327103e+29,23:55,Weed,Beer,1998,6
 econometrics and data science,yes,yes,mu,ja,male,not willing to say,13 november 1996,500,no,50.0,4.0,37.0,14:00,Money,Sunshine,1996,11
 artificial intelligence,no,no,mu,nee,female,yes,08/06/1997,280,yes,80.0,2.0,942.0,01:00,Good friends,Feeling safe,1997,6
@@ -154,7 +154,7 @@ artificial intelligence,yes,no,mu,nee,non-binary,yes,16-07-1998,300,no,80.0,8.0,
 computational science,yes,no,mu,ja,male,yes,21-11-2001,280,no,30.0,4.0,7487964.0,23:00,Bouldering,Haskell,2001,11
 computer science,no,no,sigma,nee,not willing to answer,not willing to say,02/10/1993,300,no,77.0,2.0,0.0,02:00,Earning a 10 on this course,Earning $10000 a day from the stock market,1993,10
 bioinformatics and systems biology,yes,no,mu,ja,female,yes,30-08,200,no,75.0,4.0,8.0,22:00,Seeing a golden retriever,Having fun with friends,1999,8
-unknown,yes,no,sigma,nee,male,yes,12/31/1616,500,no,101.0,0.0,7.431347801342783e+19,22:00,Nothing,Nothing,1999,12
+unknown,yes,no,sigma,nee,male,yes,12/31/1616,500,no,101.0,0.0,7.431347801342783e+19,22:00,Nothing,Nothing,1998,12
 bachelor of arts,yes,yes,mu,ja,male,yes,01-05-2001,300,no,40.0,10.0,7.0,23:30,Good sleep,Relaxing,2001,5
 computational science,yes,no,mu,ja,male,yes,4/20/1969,500,no,69.0,8.0,80085.0,04:00,Sex,Sex,2000,4
 artificial intelligence,yes,yes,mu,ja,gender fluid,no,03/04,300,no,20.0,2.0,43.0,01:00,no class,seeing friends,1999,4
@@ -173,20 +173,20 @@ artificial intelligence,yes,yes,mu,ja,male,yes,29th August 1999,300,no,33.0,6.0,
 computational science,yes,no,mu,nee,male,yes,27-11-1992,300,no,25.0,7.0,0.0,01:00,"Food, sun, friends, wine, learning new things",Mandatory office days ,1992,11
 artificial intelligence,yes,no,mu,ja,female,yes,10-08-2002,240,no,40.0,5.0,13579.0,00:30,Sunny ,exercise ,2002,8
 computational science,yes,yes,unknown,ja,female,yes,15/11/1993,220,no,60.0,1.0,7.0,23:00,Talk to friends and family,To have laughed during the day,1993,11
-unknown,yes,no,mu,nee,male,yes,08,200,no,65.0,7.0,46.0,01:00,Positivity,Good sleep,1999,
+unknown,yes,no,mu,nee,male,yes,08,200,no,65.0,7.0,46.0,01:00,Positivity,Good sleep,1998,
 artificial intelligence,yes,no,mu,nee,gender fluid,yes,10-11-1996,160,no,20.0,6.0,75890.0,01:00,Good sex,Dancing at a party,1996,11
 artificial intelligence,yes,yes,mu,ja,female,yes,02-06-1999,160,no,80.0,2.0,7.0,00:30,If the weather is warm,No delays in public transport ,1999,6
 computational science,yes,yes,mu,ja,female,yes,06-11-2000,360,no,30.0,8.0,18.0,23:30,Nice weather,Being with friends and family,2000,11
 computational science,no,no,mu,nee,female,not willing to say,0710,400,no,10.0,6.0,17.0,03:00,good food,keep winning hearthstone battleground,2000,
 artificial intelligence,yes,unknown,mu,ja,female,yes,03-03-1998,240,no,35.5,1.0,67.0,01:00,Having nothing to worry about ,Doing the things that I like ,1998,3
-unknown,yes,no,mu,ja,male,yes,20.11.1897,200,no,10.0,10.0,-2.0,23:00,Good sleep,No university,1999,11
+finiancial technology,yes,no,mu,ja,male,yes,20.11.1897,200,no,10.0,10.0,-2.0,23:00,Good sleep,No university,1997,11
 computer science,yes,no,mu,ja,male,yes,11/20,160,yes,70.0,5.0,69.0,00:00,kiss,shopping,2000,11
 computational science,yes,no,mu,nee,male,yes,Jan 12,120,no,40.0,7.0,-2.0,01:20,Love,Music,2000,01
-unknown,yes,unknown,mu,nee,male,not willing to say,29-05-200,200,no,30.0,8.0,3.14,23:07,Social activity ,Sports ,1999,5
+unknown,yes,unknown,mu,nee,male,not willing to say,29-05-200,200,no,30.0,8.0,3.14,23:07,Social activity ,Sports ,1998,5
 computational science,yes,no,mu,nee,female,yes,12-10-2001,200,no,60.0,5.0,865.0,24:15,good food ,no school ,2001,10
 artificial intelligence,yes,no,mu,ja,male,yes,26/08/1988,220,no,77.0,0.0,29.0,07:00,Study,Organized ,1988,8
 business analytics,yes,yes,mu,ja,female,yes,25-07-2002,240,no,0.0,9.0,74364789532.0,23:00,Sunshine,Friends ,2002,7
-unknown,yes,yes,sigma,ja,male,yes,14,80,no,5.0,10.0,8.0,22:30,Date with a girl,Binge watching a TV show,1999,
+unknown,yes,yes,sigma,ja,male,yes,14,80,no,5.0,10.0,8.0,22:30,Date with a girl,Binge watching a TV show,1998,
 econometrics and data science,no,no,mu,nee,male,yes,13/06/2000,360,no,10.0,15.0,13.0,23:04,"Good sleep, Rowing and being productive","Good sleep, chillings and eating good",2000,6
 artificial intelligence,yes,no,mu,ja,female,yes,05-04-2000,300,no,70.0,2.0,6.0,01:28,sleep 8h,went to gym,2000,4
 bioinformatics and systems biology,yes,unknown,mu,ja,male,yes,16-11-1999,200,no,100.0,3.0,420.0,01:00,Beer,Beer,1999,11
@@ -196,7 +196,7 @@ unknown,yes,no,mu,nee,male,yes,07/10/1997,300,no,52.0,10.0,752169420587.0,00:50,
 computer science,yes,yes,mu,ja,male,no,1-1-2002,300,no,20.0,2.0,582819464919263.0,00:00,-,-,2002,1
 computer science,yes,yes,mu,ja,female,not willing to say,21-06,240,no,75.0,3.0,21.0,00:30,Good sleep,Delicious food ,2000,6
 bioinformatics and systems biology,yes,no,unknown,nee,male,yes,2001 03 29,200,no,42.24220338983051,5.0,29.0,03:00,good weather,good grades,2001,3
-unknown,no,no,unknown,nee,female,yes,18-01-2001,200,no,70.0,5.0,8.0,01:30,Nice food,Nice weather,2001,1
+public administration,no,no,unknown,nee,female,yes,18-01-2001,200,no,70.0,5.0,8.0,01:30,Nice food,Nice weather,2001,1
 artificial intelligence,yes,yes,mu,ja,female,not willing to say,29-07-2002,300,no,20.0,5.0,77.0,23:00,Sun,Dinner with friends,2002,7
 bioinformatics and systems biology,yes,no,mu,nee,non-binary,yes,why do you need to know,0,no,105.0,57.0,42.0,06:00,alex going to brussels on my birthday,fun lectures at 9am,1999,
 business analytics,yes,yes,sigma,ja,male,yes,28-11-1997,440,no,0.0,6.0,21.0,23:30,Weed,Sun,1997,11
@@ -212,7 +212,7 @@ artificial intelligence,yes,yes,mu,ja,male,yes,14-9-1419,180,no,10.0,8.0,61.0,04
 artificial intelligence,yes,yes,mu,ja,male,no,02/11,260,no,42.69,8.0,3.0,00:35,Sunny weather,Lots of free time,1999,11
 computer science,yes,yes,mu,ja,male,no,07-06-1998,280,no,10.0,6.0,69.0,02:30,No obligations,Seeing friends,1998,6
 artificial intelligence,yes,yes,unknown,ja,male,yes,16-04-1999,0,no,22.5,3.0,0.0,01:00,"Good weather, for example when the sun is shining at about 25 degrees celcius",Cozy movie watching on a rainy day,1999,4
-unknown,no,no,unknown,ja,male,yes,15-04-2001,300,no,60.0,5.0,7.0,23:30,Sunny weather,Spending time with friends,2001,4
+public administration,no,no,unknown,ja,male,yes,15-04-2001,300,no,60.0,5.0,7.0,23:30,Sunny weather,Spending time with friends,2001,4
 unknown,yes,yes,mu,ja,male,yes,14/09/1997,240,no,60.0,3.0,314.0,02:00,A p-value << 0.05,Winning the lottery,1997,9
 bioinformatics and systems biology,yes,no,sigma,nee,female,yes,12-05,300,no,80.0,0.0,7.0,04:00,no assignment,sunny day,1999,5
 computer science,yes,no,mu,ja,male,yes,23 August 2002,200,no,0.0,7.0,617848429.0,04:00,Talking to my girlfriend,Eating authentic indian food,2002,08
