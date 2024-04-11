@@ -5,14 +5,14 @@ Andreatta Thomas - 2802682, Den Hamer Thomas - 2826192, Zhou Cenxuan - 2801036
 ### Assignement 1 grading
 | Task         | Done | Grading Component                                           | Weight |
 |--------------|------|-------------------------------------------------------------|--------|
-| **1A**       | [ ]  | Description of the dataset (statistics)                     | 3      |
-|              | [ ]  | Plots of some features                                     | 3      |
-|              | [ ]  | Interpretation and rationale                                | 4      |
-| **1B**       | [ ]  | Description of approach and results to remove outliers     | 2      |
-|              | [ ]  | Description of two approaches to impute missing values and comparison | 3 |
-|              | [ ]  | Interpretation and rationale                                | 5      |
-| **1C**       | [ ]  | Description of feature engineering approach                 | 5      |
-|              | [ ]  | Interpretation and rationale                                | 5      |
+| **1A**       | [X]  | Description of the dataset (statistics)                     | 3      |
+|              | [X]  | Plots of some features                                     | 3      |
+|              | [X]  | Interpretation and rationale                                | 4      |
+| **1B**       | [X]  | Description of approach and results to remove outliers     | 2      |
+|              | [X]  | Description of two approaches to impute missing values and comparison | 3 |
+|              | [X]  | Interpretation and rationale                                | 5      |
+| **1C**       | [X]  | Description of feature engineering approach                 | 5      |
+|              | [X]  | Interpretation and rationale                                | 5      |
 | **2A**       | [ ]  | Description of classification approaches                    | 4      |
 |              | [ ]  | Description of hyperparameter optimization                  | 2      |
 |              | [ ]  | Description of evaluation setup                             | 4      |
