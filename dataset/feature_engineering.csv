@@ -161,7 +161,7 @@ artificial intelligence,yes,yes,mu,ja,14,20.0,01:00,Late Night,2.0,Low,1999,25,2
 computer science,no,no,unknown,nee,4,99.0,03:00,Late Night,5.0,Moderate,2000,24,33,older,male,yes,7.0,8
 business analytics,yes,yes,mu,ja,14,42.24220338983051,23:30,Late Night,4.0,Moderate,2000,24,27,older,male,yes,69.0,6
 artificial intelligence,yes,yes,mu,ja,14,70.0,00:00,Late Night,12.0,High,1999,25,30,older,female,not willing to say,7.0,
-computational science,no,no,mu,ja,6,20.0,01:00,Late Night,15.0,High,2000,24,23,younger,male,not willing to say,28.0,12
+computational science,no,no,mu,ja,6,20.0,01:00,Late Night,15.0,High,1998,26,25,younger,male,not willing to say,28.0,12
 artificial intelligence,yes,yes,unknown,ja,12,70.0,24:00,Late Night,3.0,Moderate,1996,28,34,older,male,yes,37.0,2
 computational science,no,no,mu,ja,6,60.0,23:00,Late Night,10.0,High,2001,23,27,older,male,yes,7.0,07
 bioinformatics and systems biology,yes,yes,mu,nee,14,20.0,01:00,Late Night,4.0,Moderate,1998,26,27,older,female,yes,4.0,11
