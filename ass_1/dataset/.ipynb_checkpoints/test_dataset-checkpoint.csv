@@ -1,0 +1,50 @@
+programme,mlcourse,ircourse,statcourse,dbcourse,knowledge,stress,bedtime,bedtime_segment,sporthours,activity_intensity,byear,age,mental_age,mental_biological_age,gender,chatGPT,random,bmonth
+artificial intelligence,yes,no,sigma,nee,6,20.0,21:30,Night,3.0,Moderate,1999,25,26,older,female,yes,28.0,8.0
+business analytics,yes,yes,mu,ja,14,30.0,23:00,Late Night,6.0,Moderate,2001,23,25,older,female,yes,8.0,7.0
+computational science,yes,no,mu,ja,10,30.0,23:00,Late Night,4.0,Moderate,2001,23,25,older,male,yes,7487964.0,11.0
+software engineering,no,yes,unknown,ja,8,90.0,23:36,Late Night,1.0,Low,1998,26,35,older,female,not willing to say,7.0,11.0
+bioinformatics and systems biology,yes,no,mu,nee,10,1.0,01:00,Late Night,2.0,Low,1999,25,25,match,gender fluid,not willing to say,1001010.0,
+artificial intelligence,yes,no,mu,nee,10,20.0,01:00,Late Night,6.0,Moderate,1996,28,29,older,gender fluid,yes,75890.0,11.0
+bioinformatics and systems biology,yes,no,sigma,nee,6,80.0,04:00,Early Morning,0.0,Low,1999,25,33,older,female,yes,7.0,5.0
+bioinformatics and systems biology,yes,no,sigma,nee,6,30.0,03:00,Late Night,5.0,Moderate,1999,25,27,older,female,yes,47.0,4.0
+artificial intelligence,yes,yes,mu,nee,14,12.0,01:00,Late Night,6.0,Moderate,1999,25,25,match,male,yes,8.0,8.0
+unknown,no,no,mu,ja,6,88.0,24:00,Late Night,4.0,Moderate,1999,25,33,older,male,yes,74.0,2.0
+computational science,yes,no,mu,nee,10,75.0,03:40,Late Night,0.0,Low,2000,24,32,older,female,yes,13.0,3.0
+artificial intelligence,yes,yes,mu,ja,14,10.0,04:00,Early Morning,8.0,High,1999,25,24,younger,male,yes,61.0,9.0
+business analytics,yes,yes,mu,ja,14,20.0,23:00,Late Night,1.0,Low,2003,21,23,older,female,yes,9.0,1.0
+artificial intelligence,yes,yes,mu,ja,14,33.0,03:30,Late Night,6.0,Moderate,1999,25,27,older,male,yes,4.0,8.0
+computer science,yes,no,mu,ja,10,75.0,23:00,Late Night,10.0,High,2000,24,30,older,male,yes,66.0,11.0
+artificial intelligence,yes,yes,mu,ja,14,70.0,00:00,Late Night,12.0,High,1999,25,30,older,female,not willing to say,7.0,
+unknown,no,no,unknown,ja,4,0.5,02:00,Late Night,0.0,Low,2001,23,23,match,female,yes,4.5806252078414897e+21,3.0
+artificial intelligence,yes,no,mu,nee,10,0.0,24:00,Late Night,14.0,High,1992,32,29,younger,male,yes,67.0,9.0
+business analytics,yes,unknown,mu,nee,12,50.0,23:00,Late Night,5.0,Moderate,1999,25,29,older,female,yes,1.0,6.0
+artificial intelligence,yes,no,mu,ja,10,100.0,23:55,Late Night,8.0,High,1998,26,34,older,gender fluid,not willing to say,5.426710954327103e+29,6.0
+computational science,yes,yes,sigma,ja,10,12.0,02:00,Late Night,2.0,Low,1996,28,29,older,male,yes,96.0,9.0
+computer science,yes,no,sigma,ja,6,65.0,00:00,Late Night,8.0,High,2000,24,29,older,male,yes,8.0,10.0
+artificial intelligence,yes,no,mu,ja,10,90.0,04:00,Early Morning,2.0,Low,2000,24,33,older,male,yes,184.0,7.0
+unknown,yes,no,sigma,ja,6,95.0,03:40,Late Night,5.0,Moderate,1995,29,38,older,male,yes,3.14,2.0
+artificial intelligence,yes,no,mu,ja,10,77.0,07:00,Early Morning,0.0,Low,1988,36,44,older,male,yes,29.0,8.0
+computational science,no,no,mu,ja,6,60.0,23:00,Late Night,10.0,High,2001,23,27,older,male,yes,7.0,7.0
+artificial intelligence,yes,no,mu,nee,10,20.0,23:00,Late Night,4.0,Moderate,2000,24,25,older,female,yes,38.0,5.0
+bioinformatics and systems biology,yes,no,sigma,nee,6,42.0,01:00,Late Night,8.0,High,1998,26,29,older,male,yes,3.0,10.0
+business analytics,yes,yes,mu,ja,14,15.0,23:30,Late Night,2.0,Low,2000,24,25,older,male,no,13.0,2.0
+unknown,yes,no,sigma,nee,6,101.0,22:00,Night,0.0,Low,1999,25,35,older,male,yes,7.431347801342783e+19,12.0
+computational science,no,no,mu,nee,6,90.0,06:00,Early Morning,5.0,Moderate,2000,24,32,older,non-binary,yes,4.0,
+business analytics,yes,no,mu,ja,10,20.0,00:30,Late Night,2.0,Low,2001,23,25,older,female,yes,78.0,5.0
+computer science,yes,no,mu,nee,10,88.0,04:00,Early Morning,5.0,Moderate,2000,24,32,older,not willing to answer,yes,114514.0,
+human language technology,yes,unknown,unknown,ja,10,44.0,01:30,Late Night,3.0,Moderate,1987,37,41,older,male,yes,999.0,2.0
+computer science,no,no,mu,ja,6,50.0,23:30,Late Night,0.0,Low,2001,23,28,older,male,yes,98934847.0,11.0
+artificial intelligence,yes,no,mu,ja,10,15.0,23:45,Late Night,6.0,Moderate,1999,25,25,match,male,yes,7.362826282728195e+22,11.0
+artificial intelligence,yes,no,mu,ja,10,60.0,03:00,Late Night,8.0,High,2001,23,27,older,male,yes,8.0,10.0
+bioinformatics and systems biology,yes,no,unknown,nee,8,42.24220338983051,03:00,Late Night,5.0,Moderate,2001,23,26,older,male,yes,29.0,3.0
+artificial intelligence,yes,yes,mu,ja,14,0.0,22:30,Night,6.0,Moderate,2000,24,23,younger,female,yes,4.0,3.0
+unknown,yes,no,sigma,nee,6,34.0,23:00,Late Night,1.0,Low,1998,26,29,older,female,yes,36952.0,6.0
+artificial intelligence,no,no,mu,ja,6,100.0,04:00,Early Morning,0.0,Low,2000,24,34,older,non-binary,yes,3.0,2.0
+artificial intelligence,no,no,mu,nee,6,30.0,02:00,Late Night,1.0,Low,1997,27,30,older,male,yes,1234567890.0,12.0
+artificial intelligence,no,no,mu,nee,6,60.0,22:55,Night,3.0,Moderate,1998,26,31,older,male,not willing to say,9.0,1.0
+artificial intelligence,yes,no,mu,ja,10,99.0,03:00,Late Night,10.0,High,1998,26,34,older,male,no,222.0,6.0
+computer science,yes,yes,mu,ja,14,75.0,00:30,Late Night,3.0,Moderate,2000,24,31,older,female,not willing to say,21.0,6.0
+artificial intelligence,no,no,mu,nee,6,70.0,23:00,Late Night,5.0,Moderate,2001,23,29,older,female,yes,8.0,10.0
+computer science,yes,no,mu,ja,10,0.0,03:00,Late Night,3.0,Moderate,2000,24,23,younger,male,yes,0.0,4.0
+artificial intelligence,yes,no,mu,nee,10,42.24220338983051,01:00,Late Night,0.0,Low,1995,29,33,older,not willing to answer,yes,60.0,
+unknown,yes,no,mu,ja,10,10.0,23:00,Late Night,10.0,High,1999,25,24,younger,male,yes,-2.0,11.0
